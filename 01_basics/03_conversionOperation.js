@@ -24,9 +24,19 @@ let booleanLoggedIn = Boolean(isLoggedIn);
 // "" => false
 // "azeem" => true
 
-let someNumber = 33;
+// let someNumber = 33;
 
-let someString = String(someNumber);
+// let someString = String(someNumber);
 
-console.log(typeof someString);
-console.log(someString);
+// console.log(typeof someString);
+// console.log(someString);
+
+// --------------------operations------------------------------
+
+let value = 3;
+
+let negValue = -value;
+// console.log(negValue);
+
+// console.log(2 % 3);
+
