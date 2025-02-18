@@ -6,12 +6,9 @@
 
 //--------------------------------------------
 
-
 // let str = "A😊B";
-// console.log(str.length);  // Output: 3 (A = 1 unit, 😊 = 2 units, B = 1 unit)
+// console.log(str.length);  // Output: 4 (A = 1 unit, 😊 = 2 units, B = 1 unit)
 // console.log(str[1]);  // Output: "�" (JavaScript sees part of the emoji)
-
-
 
 // ----------------------------------------------------------------
 
@@ -21,7 +18,6 @@
 // let text = "Java Script";
 // console.log(text.substring(0, 4));  // Output: "Java"
 // console.log(text.substring(5, 11)); // Output: "Script"
-
 
 // let first = "Ahlan"
 // let second = " wa sahlan"
